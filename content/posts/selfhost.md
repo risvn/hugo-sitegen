@@ -27,7 +27,7 @@ At this point, my servers are sitting idle anyway, so **why not?**
 ## Note
 
 > I over **simplified** all the steps which took me hours to figure out.  
-> But once you get it, that's it 😉  
+> But once you get it, that's it   
 >
 > If you are planning to self-host your personal projects, the steps are pretty much the same for any VPS or physical machine — **all you need is a host.**
 
@@ -41,7 +41,7 @@ At this point, my servers are sitting idle anyway, so **why not?**
 - Perfect for personal or hobby projects
 - Great first step into **homelabbing**
 
-![Raspberry Pi Server](https://raw.githubusercontent.com/risvn/blog/refs/heads/main/media/pi.jpg)
+![Raspi](https://raw.githubusercontent.com/risvn/hugo-sitegen/refs/heads/main/media/pi.jpg)
 
 ---
 
@@ -97,7 +97,8 @@ This acts as a bridge between my machine and Cloudflare servers, forwarding requ
 
 ## Daemon
 
-![Daemon](https://raw.githubusercontent.com/risvn/blog/refs/heads/main/media/daemon.jpg)
+![Demon](https://pavaka.github.io/assets/img/standing-daemon.jpg)
+
 
 > “A daemon is a background process that handles requests for services like file transfers, printing, or managing network connections — kind of like a waiter at a restaurant.”
 >
