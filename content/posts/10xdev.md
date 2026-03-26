@@ -6,6 +6,7 @@ tags:
   - awesome-resources
   - cs-courses
 draft: false
+categories: ['Tech']
 ---
 
 > *You will work harder than you ever thought possible, but the tools will feel light in your hands.*  
@@ -88,7 +89,12 @@ With Docker, you can create reproducible environments that run the same everywhe
 
 Not a flex but this is my personalised development environment :)
 
+- [tmux](https://github.com/tmux/tmux/wiki)+[Neovim](https://neovim.io/doc/) setup:
 ![Terminal-setup](https://raw.githubusercontent.com/risvn/configs/master/screenshots/Screenshot_1.png)
+
+- [Fedora Docs](https://docs.fedoraproject.org/)+[Hyprland Wiki](https://wiki.hyprland.org/) setup:
+![Terminal-setup](https://raw.githubusercontent.com/risvn/configs/refs/heads/master/screenshots/rice.png)
+
 Here is the my [dot-files](https://github.com/risvn/configs)
 
 ---

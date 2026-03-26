@@ -3,7 +3,7 @@ date: '2025-10-30T18:12:28+05:30'
 draft: false
 title: "rsvn's Blog"
 tags: ["learning-journal", "notes-to-self",'blog','personal-blog','made-with-hugo']
-categories: ['blog']
+categories: ['Philosophy']
 ---
 
 

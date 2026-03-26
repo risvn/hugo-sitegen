@@ -1,6 +1,7 @@
 ---
 title: "Self Hosting"
 date: 2025-11-30T18:07:15+05:30
+categories: ['Tech']
 tags:
   - self-hosting
   - linux
